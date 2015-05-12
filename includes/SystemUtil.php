@@ -16,7 +16,7 @@ abstract class SystemUtil {
                             <div class="navbar-header">
                                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu-principal">
                                     <span class="sr-only">Toggle navigation</span>
-                                    <span class="nav-text">Desplegar Menú</span>
+                                    <span class="nav-text">Menu</span>
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                 </button>

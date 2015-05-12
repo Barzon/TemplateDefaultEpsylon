@@ -1,8 +1,11 @@
-h1,h2,h3,h4,h5,h6 {
-    color:#ffb648;
+@font-face {
+    font-family: Exo;
+    src: url('../fonts/Exo/Exo-Regular.ttf');
 }
-h1.title, h2.title, h3.title, h4.title, h5.title, h6.title {
-    color:#039;
+
+body {
+    font-family: Exo;
+    background-color: #fff;
 }
 .l-margin-em {
     margin:1em;
@@ -17,3 +20,14 @@ h1.title, h2.title, h3.title, h4.title, h5.title, h6.title {
     padding:0.5em;
 }
 
+.footer {
+    min-height:200px;
+    background-color: #eeeeee; 
+}
+.status-bar {
+    background-color: #333;
+    color:#fff;
+}
+.nav-text {
+    color:#fff;
+}
