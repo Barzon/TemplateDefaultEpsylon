@@ -1,0 +1,34 @@
+/* 
+    Created on : 13-05-2015, 10:40:02
+    Author     : Alejandro Lira
+*/
+/* good, grande tipo cuadrada */
+@font-face {
+    font-family: Exo;
+    src: url('../fonts/Exo/Exo-Regular.ttf');
+}
+/* good, delgada */
+@font-face {
+    font-family: ArchivoNarrow;
+    src: url('../fonts/Archivo_Narrow/ArchivoNarrow-Regular.ttf');
+}
+/* good */
+@font-face {
+    font-family: Hind;
+    src: url('../fonts/Hind/Hind-Regular.ttf');
+}
+/* Tipo manus no regular */
+@font-face {
+    font-family: IndieFlower;
+    src: url('../fonts/Indie_Flower/IndieFlower.ttf');
+}
+/* good */
+@font-face {
+    font-family: MavenPro;
+    src: url('../fonts/Maven_Pro/MavenPro-Regular.ttf');
+}
+/* good default theme */
+@font-face {
+    font-family: Oxygen;
+    src: url('../fonts/Oxygen/Oxygen-Regular.ttf');
+}
